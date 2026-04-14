@@ -190,15 +190,3 @@ source("03_X_figures.R")            # generates X centromere figures
 | `FigX_XCTR_full_chromosome.pdf` | XCTR1–5 hit tracks across the full X chromosome |
 | `FigX_XCTR_centromere_zoom.pdf` | Zoomed centromeric region (30–55 Mb) |
 | `FigX_XCTR_threshold_comparison.pdf` | Strict vs relaxed threshold comparison |
-
----
-
-## References
-
-Olagunju et al. (2024). Telomere-to-telomere assembly of the cattle sex chromosomes reveals extensive centromeric repeat variation. *[journal]*.
-
-Pineda et al. (2025). Insights into the bovine X chromosome centromere structure and organisation. *[journal]*.
-
-Benson, G. (1999). Tandem repeats finder: a program to analyze DNA sequences. *Nucleic Acids Research*, 27(2), 573–580.
-
-Camacho et al. (2009). BLAST+: architecture and applications. *BMC Bioinformatics*, 10, 421.
